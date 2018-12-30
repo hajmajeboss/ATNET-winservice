@@ -1,0 +1,11 @@
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\CryptoSerice.exe.config
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\CryptoSerice.exe
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\CryptoSerice.pdb
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\obj\Debug\CryptoSerice.csprojAssemblyReference.cache
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\obj\Debug\CryptoSerice.csproj.CoreCompileInputs.cache
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\obj\Debug\CryptoSerice.csproj.CopyComplete
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\obj\Debug\CryptoSerice.exe
+C:\Users\hajma\source\repos\CryptoSerice\CryptoSerice\obj\Debug\CryptoSerice.pdb

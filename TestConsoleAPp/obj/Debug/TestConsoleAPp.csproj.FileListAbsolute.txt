@@ -1,0 +1,11 @@
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\obj\Debug\TestConsoleAPp.csprojAssemblyReference.cache
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\obj\Debug\TestConsoleAPp.csproj.CoreCompileInputs.cache
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\TestConsoleAPp.exe.config
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\TestConsoleAPp.exe
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\TestConsoleAPp.pdb
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\obj\Debug\TestConsoleAPp.csproj.CopyComplete
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\obj\Debug\TestConsoleAPp.exe
+C:\Users\hajma\source\repos\CryptoSerice\TestConsoleAPp\obj\Debug\TestConsoleAPp.pdb
